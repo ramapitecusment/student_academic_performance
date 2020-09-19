@@ -7,11 +7,11 @@
 
 Summary of the best CART TREE model. The ACCURACY of the model 68%. Noticeably, the variable VisitedResourses is highly significant, however ParentsSatisfaction level is almost insignificant.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot01.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot01.png)
 
 Summary of the best CART TREE model, which were improved by CROSS VALIDATION. The ACCURACY of the model 71%. As you can see, the accuracy of the model has been improved. CP = 0.015.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot02.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot02.png)
 
 Summary of the best RANDOM FOREST model.The ACCURACY of the model 76%. Unfortunately, Random forest can not predict as exactly as it did before
 
@@ -31,11 +31,11 @@ Deciding on the number of hidden layers in a neural network is not an exact scie
 
 In our example there are 2 hidden layers:
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot03.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot03.png)
 
 In order to identify ideal threshold fot the neuralnet, it is needed to devided our data to training and test datasets. There are 10 training and 10 test datasets. Best Threshold is 0.4
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot04.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot04.png)
 
 ### Conclusion
 
